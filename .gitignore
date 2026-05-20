@@ -1,0 +1,10 @@
+*.pth 
+*.pth.tar 
+*.ckpt 
+data/ 
+datasets/ 
+output/ 
+work_dirs/ 
+__pycache__/ 
+*.pyc 
+.env 
